@@ -3,4 +3,4 @@ sample file 2
 here is reset 2 file  
 
 
-again git reverse 2
+again
