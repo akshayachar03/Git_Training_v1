@@ -1,1 +1,7 @@
 sample file 2
+
+here is reset 2 file  
+
+
+again
+Git comparision 2 on this

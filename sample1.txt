@@ -1,4 +1,13 @@
+
 sample file 1 
 
 
 This is sample file modification
+
+sample file 1
+
+Here is a reset
+
+git reverse
+ Git comparision 
+
